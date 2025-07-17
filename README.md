@@ -1,1 +1,1 @@
-# bsty
+# web cdn
